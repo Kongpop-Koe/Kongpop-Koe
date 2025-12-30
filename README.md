@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Kongpop 👋
 
-<!--
-**Kongpop-Koe/Kongpop-Koe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering Student at **Chulalongkorn University**, passionate about **Analog & Mixed-Signal IC Design**.
 
-Here are some ideas to get you started:
+Currently, I'm deep-diving into **Power Management ICs (LDO)** and Advanced Frequency Compensation techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tools & Skills
+* **IC Design:** Cadence Virtuoso, Spectre, ADE L/XL
+* **Verification:** Corner Analysis, Monte Carlo, Physical Verification (DRC/LVS)
+* **Hardware Description:** Verilog
+* **Analysis & Scripting:** MATLAB, Python
+
+### 🔭 Current Project
+* **Capacitor-less LDO Regulator (0.13µm CMOS):**
+    * Targeting $I_q < 10\mu A$ for low-power IoT applications.
+    * Focusing on Loop Stability and PSRR optimization without off-chip capacitors.
+
+---
